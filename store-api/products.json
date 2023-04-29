@@ -1,0 +1,61 @@
+[
+    {
+        "name": "accent chair",
+        "price": 25,
+        "company": "ikea",
+        "rating": 4
+    },
+    {
+        "name": "accent chair",
+        "price": 25,
+        "feature": true,
+        "company": "caressa"
+    },
+    {
+        "name": "accent chair",
+        "price": 25,
+        "company": "liddy"
+    },
+    {
+        "name": "accent chair",
+        "price": 25,
+        "feature": true,
+        "company": "caressa"
+    },
+    {
+        "name": "accent chair",
+        "price": 25,
+        "feature": true,
+        "company": "caressa"
+    },
+    {
+        "name": "accent chair",
+        "price": 25,
+        "feature": true,
+        "company": "caressa"
+    },
+    {
+        "name": "accent chair",
+        "price": 25,
+        "feature": true,
+        "company": "caressa"
+    },
+    {
+        "name": "accent chair",
+        "price": 25,
+        "feature": true,
+        "company": "caressa"
+    },
+    {
+        "name": "accent chair",
+        "price": 25,
+        "feature": true,
+        "company": "caressa"
+    },
+    {
+        "name": "accent chair",
+        "price": 25,
+        "feature": true,
+        "company": "caressa"
+    }
+]
